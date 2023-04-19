@@ -1,0 +1,142 @@
+/* Tag selectors */
+
+/* https://colorhunt.co/palette/3936464f45576d5d6ef4eee0 */
+/*
+body {
+    margin: 0;
+    color: #F4EEE0
+}
+
+h1 {
+    margin-top: 0px;
+    width: 20%;
+    margin-left: 10%;
+}
+
+p {
+    margin-bottom: 0;
+    width: 20%;
+    margin-left: 10%;
+}
+
+.top-container {
+    background-color: #6D5D6E;
+    padding-left: 10%;
+    padding-bottom: 7%;
+    padding-top: 5%;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 400px;
+}
+
+.middle-container {
+    background-color: #4F4557;
+    width: 100%;
+    height: 400px;
+}
+
+.bottom-container {
+    background-color: #393646;
+    width: 100%;
+    height: 400px;
+    margin-bottom: 0;
+}
+
+.burger {
+    height: 200px;
+    width: 200px;
+    margin-left: 25%;
+    margin-top: -135px;
+}
+
+selectorselector {
+    color: blue;
+}
+
+.exampleDiv {
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+}
+
+@media (width <= 500) {
+    .exampleDiv {
+        background-color: green;
+    }
+}
+*/
+/* Example page */
+
+/*  https://colorhunt.co/palette/a6d0ddff6969ffd3b0fff9de  */
+
+#blog-title {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header-div {
+    background-color: #A6D0DD;
+    color: #FFF9DE;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 300px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+    font-size: 25px;
+    text-align: center;
+}
+.developer {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.landing-page {
+    margin-top: 20px;
+    font-size: 30px;
+    color: #FF6969;
+}
+
+.info {
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+body {
+    margin: 0;
+}
+
+.paragraph {
+    margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #FFF9DE;
+    display: inline-block;
+    width: 600px;
+    text-align: justify;
+}
+
+main {
+    background-color: #FFD3B0;
+    margin-top: 0;
+    color: #FFF9DE;
+    height: 500px;
+}
+
+h2 {
+    margin: 0 0 0 0;
+    color: #FF6969;
+    padding-top: 100px;
+    padding-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer {
+    height: 100px;
+    background-color: #A6D0DD;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    color: #FFF9DE;
+    padding-top: 30px;
+}
+
+.burger-class {
+    margin-left: 50px;
+}
+
